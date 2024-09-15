@@ -86,4 +86,3 @@ with open(output_path, 'w') as file:
 sys.stdout = sys.__stdout__
 
 # Continue normal console output
-# print("Report generation completed. Output saved to fin_analysis.txt.")

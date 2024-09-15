@@ -1,4 +1,4 @@
-
+<< Code for PyPoll Challenge >>
 
 # Dependencies
 import os
